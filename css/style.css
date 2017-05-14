@@ -214,6 +214,15 @@ body {
   .header {
     padding-top: 60px;
   }
+  .contact-wrapper {
+  display: table;
+  width: 60%;
+  margin: 5px 20.5% 0 19.5%;
+  table-layout: fixed;
+}
+  .contact-box {  
+  display: table-cell;
+}
   .site-title-sub {
     font-size: 1.7rem;
   }
