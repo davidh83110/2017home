@@ -78,6 +78,13 @@ body {
   width: 150px;
   height: 150px;
 }
+.badge {
+  position: cneter;
+  left: 0px;
+  top: 0px;
+  width: 110px;
+  height: 110px;
+}
 .contact-wrapper {
   display: table;
   width: 20%;
